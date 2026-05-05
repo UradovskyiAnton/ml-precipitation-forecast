@@ -49,20 +49,19 @@ precipitation_sum > 0
 * Використовуються **щоденні (daily) дані**
 
 Використані змінні:
-"temperature_2m_max",
-"temperature_2m_min",
-"temperature_2m_mean",
-"apparent_temperature_max", 
-"apparent_temperature_min",
-"wind_speed_10m_max", 
-"wind_gusts_10m_max", 
-"wind_direction_10m_dominant",
-"shortwave_radiation_sum", 
-"sunshine_duration", 
-"daylight_duration",
-"et0_fao_evapotranspiration", 
-"precipitation_sum"
-* 
+* "temperature_2m_max",
+* "temperature_2m_min",
+* "temperature_2m_mean",
+* "apparent_temperature_max", 
+* "apparent_temperature_min",
+* "wind_speed_10m_max", 
+* "wind_gusts_10m_max", 
+* "wind_direction_10m_dominant",
+* "shortwave_radiation_sum", 
+* "sunshine_duration", 
+* "daylight_duration",
+* "et0_fao_evapotranspiration", 
+* "precipitation_sum" 
 ---
 
 ### Підготовка даних
