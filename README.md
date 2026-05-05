@@ -209,7 +209,7 @@ streamlit run app.py
 
 ---
 
-## 📦 Залежності
+## 📦 Requirements
 
 Основні бібліотеки:
 
